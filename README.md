@@ -9,6 +9,14 @@ Short paragraph then fuller description...
 2. Activate...
 3. Settings at: Tools → WP10MS Tools
 
+# Features
+* Enable SVG, WOFF, TTF, WebP uploads
+* Disable XML-RPC and REST API for guests
+* Classic Editor support
+* Custom header/footer scripts
+* Remove emojis and bloat
+* …and much more
+
 # Frequently Asked Questions
 = Will enabling SVG allow malicious uploads? =
 No — we sanitize with wp_kses and restrict to users with upload_files capability.
